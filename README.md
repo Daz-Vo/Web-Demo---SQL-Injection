@@ -49,7 +49,7 @@ Yêu cầu máy tính đã cài đặt **Docker Desktop** và **Git**.
 Mở Terminal (hoặc CMD/PowerShell) và chạy lệnh:
 
 ```bash
-git clone <link-git-cua-ban>
+git clone https://github.com/Daz-Vo/Web-Demo---SQL-Injection.git
 cd BMTT
 
 ```
